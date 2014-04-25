@@ -1,5 +1,5 @@
 {
-  "name": "sc-useify",
+  "name": "useify",
   "version": "0.0.13",
   "description": "`Useify` is a middleware implementation that extends objects",
   "main": "index.js",
